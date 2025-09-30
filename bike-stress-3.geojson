@@ -1,0 +1,3143 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-09-30T19:51:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37684096",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "Exposition Boulevard",
+        "surface": "asphalt",
+        "turn:lanes:both_ways": "left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.327165,
+            34.0210394
+          ],
+          [
+            -118.3277451,
+            34.0211828
+          ],
+          [
+            -118.3283512,
+            34.0213327
+          ],
+          [
+            -118.328951,
+            34.0214561
+          ],
+          [
+            -118.3294574,
+            34.0215604
+          ],
+          [
+            -118.3295614,
+            34.0215817
+          ],
+          [
+            -118.3297,
+            34.0216022
+          ],
+          [
+            -118.3299432,
+            34.0216381
+          ],
+          [
+            -118.3303081,
+            34.0217077
+          ],
+          [
+            -118.3305695,
+            34.0217637
+          ],
+          [
+            -118.3308236,
+            34.0218343
+          ],
+          [
+            -118.3310335,
+            34.0218927
+          ],
+          [
+            -118.3312307,
+            34.0219427
+          ],
+          [
+            -118.3314592,
+            34.0219878
+          ],
+          [
+            -118.3323606,
+            34.0221613
+          ],
+          [
+            -118.3332803,
+            34.0223384
+          ],
+          [
+            -118.3339728,
+            34.0224718
+          ],
+          [
+            -118.334952,
+            34.0226606
+          ]
+        ]
+      },
+      "id": "way/37684096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113411288",
+        "cycleway": "shared_lane",
+        "highway": "tertiary",
+        "maxspeed": "30 mph",
+        "name": "West 39th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "39th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90008",
+        "tiger:zip_right": "90008"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.304562,
+            34.014624
+          ],
+          [
+            -118.3046411,
+            34.0146234
+          ],
+          [
+            -118.3051317,
+            34.0146237
+          ],
+          [
+            -118.305611,
+            34.0146268
+          ],
+          [
+            -118.3056956,
+            34.0146233
+          ],
+          [
+            -118.3057679,
+            34.0146233
+          ],
+          [
+            -118.3062205,
+            34.014623
+          ],
+          [
+            -118.3066663,
+            34.0146227
+          ],
+          [
+            -118.3067417,
+            34.0146227
+          ],
+          [
+            -118.3068273,
+            34.0146227
+          ],
+          [
+            -118.3072692,
+            34.0146224
+          ],
+          [
+            -118.3073134,
+            34.0146223
+          ],
+          [
+            -118.3078015,
+            34.014622
+          ],
+          [
+            -118.3082053,
+            34.0146218
+          ],
+          [
+            -118.3083311,
+            34.0146217
+          ],
+          [
+            -118.3088053,
+            34.0146215
+          ],
+          [
+            -118.308916,
+            34.0146193
+          ],
+          [
+            -118.3090489,
+            34.0146213
+          ],
+          [
+            -118.3094557,
+            34.014621
+          ],
+          [
+            -118.311108,
+            34.01462
+          ],
+          [
+            -118.3131856,
+            34.0146187
+          ],
+          [
+            -118.3132572,
+            34.0146187
+          ],
+          [
+            -118.3133475,
+            34.0146186
+          ],
+          [
+            -118.3145811,
+            34.0146179
+          ],
+          [
+            -118.3151887,
+            34.0146175
+          ],
+          [
+            -118.315806,
+            34.0146171
+          ],
+          [
+            -118.3160878,
+            34.0146169
+          ],
+          [
+            -118.3170056,
+            34.0146164
+          ],
+          [
+            -118.3170217,
+            34.0146159
+          ],
+          [
+            -118.317108,
+            34.0146163
+          ],
+          [
+            -118.3171764,
+            34.0146163
+          ],
+          [
+            -118.3172113,
+            34.0146163
+          ],
+          [
+            -118.3181659,
+            34.0146156
+          ],
+          [
+            -118.318238,
+            34.0146156
+          ],
+          [
+            -118.3183377,
+            34.0146155
+          ],
+          [
+            -118.319305,
+            34.014615
+          ],
+          [
+            -118.3203724,
+            34.0146143
+          ],
+          [
+            -118.321307,
+            34.0146137
+          ],
+          [
+            -118.322223,
+            34.0146132
+          ],
+          [
+            -118.3231714,
+            34.0146126
+          ],
+          [
+            -118.3235231,
+            34.0146124
+          ],
+          [
+            -118.3241309,
+            34.014612
+          ],
+          [
+            -118.3251031,
+            34.0146114
+          ],
+          [
+            -118.3260896,
+            34.0146108
+          ],
+          [
+            -118.3270945,
+            34.0146102
+          ],
+          [
+            -118.3281116,
+            34.0146095
+          ],
+          [
+            -118.3290856,
+            34.0146089
+          ],
+          [
+            -118.3299361,
+            34.0146084
+          ],
+          [
+            -118.3300702,
+            34.0146083
+          ],
+          [
+            -118.330234,
+            34.0146082
+          ],
+          [
+            -118.3311606,
+            34.0146077
+          ],
+          [
+            -118.3317051,
+            34.0146073
+          ],
+          [
+            -118.3327024,
+            34.0146067
+          ],
+          [
+            -118.332786,
+            34.0146067
+          ],
+          [
+            -118.3329117,
+            34.0146066
+          ],
+          [
+            -118.3333383,
+            34.0146063
+          ],
+          [
+            -118.3337201,
+            34.0146061
+          ],
+          [
+            -118.3338188,
+            34.014606
+          ],
+          [
+            -118.3342759,
+            34.0146058
+          ],
+          [
+            -118.3347503,
+            34.0146055
+          ],
+          [
+            -118.3349211,
+            34.0146054
+          ],
+          [
+            -118.3351238,
+            34.0146052
+          ]
+        ]
+      },
+      "id": "way/113411288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/165560835",
+        "cycleway": "shared_lane",
+        "highway": "residential",
+        "lanes": "2",
+        "motor_vehicle": "destination",
+        "name": "West 30th Street",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3212231,
+            34.0276492
+          ],
+          [
+            -118.3213295,
+            34.0276484
+          ],
+          [
+            -118.3215914,
+            34.0276463
+          ],
+          [
+            -118.3218161,
+            34.0276469
+          ],
+          [
+            -118.322409,
+            34.0276391
+          ],
+          [
+            -118.3230187,
+            34.0276435
+          ],
+          [
+            -118.3235202,
+            34.0276414
+          ],
+          [
+            -118.323602,
+            34.0276411
+          ],
+          [
+            -118.323701,
+            34.0276411
+          ],
+          [
+            -118.3247045,
+            34.0276406
+          ],
+          [
+            -118.324789,
+            34.0276406
+          ]
+        ]
+      },
+      "id": "way/165560835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/165560857",
+        "cycleway": "shared_lane",
+        "highway": "residential",
+        "lanes": "2",
+        "motor_vehicle": "destination",
+        "name": "4th Avenue",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "4th",
+        "tiger:name_type": "Ave",
+        "tiger:zip_left": "90018",
+        "tiger:zip_right": "90018"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3212158,
+            34.0296741
+          ],
+          [
+            -118.3212075,
+            34.0295156
+          ],
+          [
+            -118.3212354,
+            34.028212
+          ],
+          [
+            -118.3212347,
+            34.0281968
+          ],
+          [
+            -118.3212231,
+            34.0276492
+          ],
+          [
+            -118.3212234,
+            34.0275442
+          ],
+          [
+            -118.3212247,
+            34.0273904
+          ],
+          [
+            -118.3212187,
+            34.0269551
+          ],
+          [
+            -118.3212224,
+            34.0267049
+          ],
+          [
+            -118.3212265,
+            34.0265051
+          ],
+          [
+            -118.3212296,
+            34.0260589
+          ],
+          [
+            -118.3212401,
+            34.0256816
+          ],
+          [
+            -118.3212433,
+            34.025581
+          ]
+        ]
+      },
+      "id": "way/165560857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/165568105",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "Exposition Boulevard",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "Exposition",
+        "tiger:name_type": "Blvd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3357625,
+            34.0228022
+          ],
+          [
+            -118.3363391,
+            34.0228865
+          ],
+          [
+            -118.3373667,
+            34.0230473
+          ],
+          [
+            -118.3383931,
+            34.0232078
+          ],
+          [
+            -118.3394539,
+            34.0233526
+          ]
+        ]
+      },
+      "id": "way/165568105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173879100",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "name": "Degnan Boulevard",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "Degnan;11th",
+        "tiger:name_type": "Blvd;Ave",
+        "tiger:zip_left": "90008;90018",
+        "tiger:zip_right": "90008;90018"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3314346,
+            34.0109275
+          ],
+          [
+            -118.3314892,
+            34.0108344
+          ],
+          [
+            -118.3314846,
+            34.0104257
+          ],
+          [
+            -118.3314812,
+            34.0100553
+          ],
+          [
+            -118.3315,
+            34.00888
+          ],
+          [
+            -118.3314973,
+            34.0084887
+          ],
+          [
+            -118.3314901,
+            34.0083949
+          ],
+          [
+            -118.3314968,
+            34.0079963
+          ],
+          [
+            -118.3314997,
+            34.0073571
+          ],
+          [
+            -118.3315042,
+            34.0063688
+          ],
+          [
+            -118.3315054,
+            34.0061163
+          ],
+          [
+            -118.3314892,
+            34.0060602
+          ],
+          [
+            -118.331471,
+            34.0059901
+          ]
+        ]
+      },
+      "id": "way/173879100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173879101",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "name": "Degnan Boulevard",
+        "oneway": "yes",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "Degnan;11th",
+        "tiger:name_type": "Blvd;Ave",
+        "tiger:zip_left": "90008;90018",
+        "tiger:zip_right": "90008;90018"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.331471,
+            34.0059901
+          ],
+          [
+            -118.3314328,
+            34.0060603
+          ],
+          [
+            -118.3314144,
+            34.0060908
+          ],
+          [
+            -118.3314108,
+            34.00636
+          ],
+          [
+            -118.3313976,
+            34.0073571
+          ],
+          [
+            -118.331389,
+            34.0080054
+          ],
+          [
+            -118.3313933,
+            34.008396
+          ],
+          [
+            -118.3313939,
+            34.0084906
+          ],
+          [
+            -118.3313927,
+            34.0088807
+          ],
+          [
+            -118.3313735,
+            34.0100546
+          ],
+          [
+            -118.3313748,
+            34.0104243
+          ],
+          [
+            -118.3313719,
+            34.0108082
+          ],
+          [
+            -118.3314346,
+            34.0109275
+          ]
+        ]
+      },
+      "id": "way/173879101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190452695",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "2nd Avenue",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "2nd",
+        "tiger:name_type": "Ave",
+        "tiger:zip_left": "90008",
+        "tiger:zip_right": "90008"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.319234,
+            34.0000496
+          ],
+          [
+            -118.3192349,
+            33.9999385
+          ],
+          [
+            -118.3192357,
+            33.9998392
+          ],
+          [
+            -118.3192753,
+            33.9950356
+          ],
+          [
+            -118.3192774,
+            33.9944763
+          ],
+          [
+            -118.3192819,
+            33.9936647
+          ],
+          [
+            -118.319272,
+            33.9931965
+          ]
+        ]
+      },
+      "id": "way/190452695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398244737",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3262803,
+            34.0000379
+          ],
+          [
+            -118.3265124,
+            34.0000366
+          ]
+        ]
+      },
+      "id": "way/398244737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398244738",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043",
+        "turn:lanes:forward": "left|"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3254254,
+            34.0000382
+          ],
+          [
+            -118.3257962,
+            34.0000402
+          ]
+        ]
+      },
+      "id": "way/398244738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398244739",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3247036,
+            34.0000426
+          ],
+          [
+            -118.325074,
+            34.0000415
+          ]
+        ]
+      },
+      "id": "way/398244739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398244740",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.325074,
+            34.0000415
+          ],
+          [
+            -118.3254254,
+            34.0000382
+          ]
+        ]
+      },
+      "id": "way/398244740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398244741",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3242262,
+            34.000044
+          ],
+          [
+            -118.3247036,
+            34.0000426
+          ]
+        ]
+      },
+      "id": "way/398244741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398244745",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3239923,
+            34.0000471
+          ],
+          [
+            -118.3242262,
+            34.000044
+          ]
+        ]
+      },
+      "id": "way/398244745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398244746",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3235735,
+            34.0000527
+          ],
+          [
+            -118.3239923,
+            34.0000471
+          ]
+        ]
+      },
+      "id": "way/398244746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398244748",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043",
+        "turn:lanes:backward": "left|"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3257962,
+            34.0000402
+          ],
+          [
+            -118.3260921,
+            34.000039
+          ]
+        ]
+      },
+      "id": "way/398244748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398244749",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3260921,
+            34.000039
+          ],
+          [
+            -118.3262141,
+            34.0000383
+          ],
+          [
+            -118.3262803,
+            34.0000379
+          ]
+        ]
+      },
+      "id": "way/398244749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398244752",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3265124,
+            34.0000366
+          ],
+          [
+            -118.3265773,
+            34.0000362
+          ],
+          [
+            -118.3269524,
+            34.000034
+          ]
+        ]
+      },
+      "id": "way/398244752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398255857",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3224967,
+            34.0000506
+          ],
+          [
+            -118.3229005,
+            34.0000514
+          ]
+        ]
+      },
+      "id": "way/398255857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398255858",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3229005,
+            34.0000514
+          ],
+          [
+            -118.3230346,
+            34.0000516
+          ],
+          [
+            -118.323305,
+            34.0000522
+          ]
+        ]
+      },
+      "id": "way/398255858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398255859",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.323305,
+            34.0000522
+          ],
+          [
+            -118.3235735,
+            34.0000527
+          ]
+        ]
+      },
+      "id": "way/398255859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258090",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3217624,
+            34.0000491
+          ],
+          [
+            -118.3221105,
+            34.0000498
+          ]
+        ]
+      },
+      "id": "way/398258090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258091",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "1",
+        "lanes:forward": "3",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043",
+        "turn:lanes:forward": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3177243,
+            34.0000541
+          ],
+          [
+            -118.3178203,
+            34.0000538
+          ],
+          [
+            -118.3181474,
+            34.0000528
+          ]
+        ]
+      },
+      "id": "way/398258091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258092",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "3",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043",
+        "turn:lanes:backward": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3138418,
+            34.0000656
+          ],
+          [
+            -118.31395,
+            34.0000653
+          ],
+          [
+            -118.3143861,
+            34.000064
+          ]
+        ]
+      },
+      "id": "way/398258092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258094",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043",
+        "turn:lanes:forward": "left|"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3210769,
+            34.0000468
+          ],
+          [
+            -118.3214439,
+            34.0000485
+          ]
+        ]
+      },
+      "id": "way/398258094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258095",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "1",
+        "lanes:forward": "3",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043",
+        "turn:lanes:forward": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3133947,
+            34.000067
+          ],
+          [
+            -118.3137447,
+            34.0000659
+          ],
+          [
+            -118.3138418,
+            34.0000656
+          ]
+        ]
+      },
+      "id": "way/398258095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258096",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3187769,
+            34.0000516
+          ],
+          [
+            -118.3190416,
+            34.0000504
+          ],
+          [
+            -118.319234,
+            34.0000496
+          ]
+        ]
+      },
+      "id": "way/398258096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258098",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.320732,
+            34.0000466
+          ],
+          [
+            -118.3210769,
+            34.0000468
+          ]
+        ]
+      },
+      "id": "way/398258098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258099",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3095679,
+            34.0000786
+          ],
+          [
+            -118.3109224,
+            34.0000744
+          ]
+        ]
+      },
+      "id": "way/398258099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258100",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3155543,
+            34.0000606
+          ],
+          [
+            -118.3160427,
+            34.0000591
+          ]
+        ]
+      },
+      "id": "way/398258100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258101",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3171134,
+            34.0000558
+          ],
+          [
+            -118.3175443,
+            34.0000546
+          ]
+        ]
+      },
+      "id": "way/398258101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258109",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3221105,
+            34.0000498
+          ],
+          [
+            -118.3224967,
+            34.0000506
+          ]
+        ]
+      },
+      "id": "way/398258109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258112",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3199144,
+            34.0000475
+          ],
+          [
+            -118.3203348,
+            34.0000463
+          ]
+        ]
+      },
+      "id": "way/398258112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258113",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3167261,
+            34.000057
+          ],
+          [
+            -118.3171134,
+            34.0000558
+          ]
+        ]
+      },
+      "id": "way/398258113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258115",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3149466,
+            34.0000624
+          ],
+          [
+            -118.3153177,
+            34.0000613
+          ]
+        ]
+      },
+      "id": "way/398258115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258117",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3196821,
+            34.0000482
+          ],
+          [
+            -118.3199144,
+            34.0000475
+          ]
+        ]
+      },
+      "id": "way/398258117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258118",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "3",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043",
+        "turn:lanes:backward": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3113457,
+            34.0000731
+          ],
+          [
+            -118.3118481,
+            34.0000716
+          ]
+        ]
+      },
+      "id": "way/398258118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258119",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043",
+        "turn:lanes:backward": "left|"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3214439,
+            34.0000485
+          ],
+          [
+            -118.3217624,
+            34.0000491
+          ]
+        ]
+      },
+      "id": "way/398258119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258122",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3160427,
+            34.0000591
+          ],
+          [
+            -118.3164184,
+            34.000058
+          ]
+        ]
+      },
+      "id": "way/398258122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258126",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "1",
+        "lanes:forward": "3",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043",
+        "turn:lanes:forward": "left||"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3109224,
+            34.0000744
+          ],
+          [
+            -118.3113457,
+            34.0000731
+          ]
+        ]
+      },
+      "id": "way/398258126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258132",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3143861,
+            34.000064
+          ],
+          [
+            -118.3149466,
+            34.0000624
+          ]
+        ]
+      },
+      "id": "way/398258132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258136",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3203348,
+            34.0000463
+          ],
+          [
+            -118.320732,
+            34.0000466
+          ]
+        ]
+      },
+      "id": "way/398258136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258139",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3185214,
+            34.0000517
+          ],
+          [
+            -118.3187769,
+            34.0000516
+          ]
+        ]
+      },
+      "id": "way/398258139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258141",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043",
+        "turn:lanes:backward": "left|"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3181474,
+            34.0000528
+          ],
+          [
+            -118.3185214,
+            34.0000517
+          ]
+        ]
+      },
+      "id": "way/398258141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258146",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3164184,
+            34.000058
+          ],
+          [
+            -118.3165721,
+            34.0000575
+          ],
+          [
+            -118.3167261,
+            34.000057
+          ]
+        ]
+      },
+      "id": "way/398258146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258147",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3153177,
+            34.0000613
+          ],
+          [
+            -118.3154885,
+            34.0000608
+          ],
+          [
+            -118.3155543,
+            34.0000606
+          ]
+        ]
+      },
+      "id": "way/398258147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258148",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.319234,
+            34.0000496
+          ],
+          [
+            -118.3193509,
+            34.0000492
+          ],
+          [
+            -118.3196821,
+            34.0000482
+          ]
+        ]
+      },
+      "id": "way/398258148"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258150",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3175443,
+            34.0000546
+          ],
+          [
+            -118.3176269,
+            34.0000544
+          ],
+          [
+            -118.3177243,
+            34.0000541
+          ]
+        ]
+      },
+      "id": "way/398258150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/398258151",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "35 mph",
+        "name": "West 48th Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "48th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90043",
+        "tiger:zip_right": "90043"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3118481,
+            34.0000716
+          ],
+          [
+            -118.3133028,
+            34.0000672
+          ],
+          [
+            -118.3133947,
+            34.000067
+          ]
+        ]
+      },
+      "id": "way/398258151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/442346118",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "Exposition Boulevard",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "turn:lanes:both_ways": "left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3138544,
+            34.0184942
+          ],
+          [
+            -118.3142399,
+            34.0184968
+          ],
+          [
+            -118.314543,
+            34.0185068
+          ],
+          [
+            -118.3148157,
+            34.0185227
+          ],
+          [
+            -118.3152183,
+            34.0185602
+          ],
+          [
+            -118.3155796,
+            34.0185938
+          ],
+          [
+            -118.316107,
+            34.0186544
+          ],
+          [
+            -118.316601,
+            34.0187215
+          ]
+        ]
+      },
+      "id": "way/442346118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/457150411",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "maxspeed": "35 mph",
+        "name": "Exposition Boulevard",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3189731,
+            34.0191207
+          ],
+          [
+            -118.3195486,
+            34.0192448
+          ],
+          [
+            -118.320154,
+            34.0193862
+          ],
+          [
+            -118.3207474,
+            34.0195409
+          ],
+          [
+            -118.3213302,
+            34.0196965
+          ],
+          [
+            -118.3218864,
+            34.0198235
+          ],
+          [
+            -118.3224203,
+            34.0199455
+          ],
+          [
+            -118.3236048,
+            34.0202229
+          ]
+        ]
+      },
+      "id": "way/457150411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/511687103",
+        "cycleway": "shared_lane",
+        "highway": "residential",
+        "motor_vehicle": "destination",
+        "name": "West 29th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "29th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90018",
+        "tiger:zip_right": "90018"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3093079,
+            34.0291009
+          ],
+          [
+            -118.312062,
+            34.0290957
+          ],
+          [
+            -118.315163,
+            34.0290897
+          ],
+          [
+            -118.3175694,
+            34.0290739
+          ],
+          [
+            -118.3176799,
+            34.0290732
+          ]
+        ]
+      },
+      "id": "way/511687103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/511693219",
+        "cycleway": "shared_lane",
+        "highway": "residential",
+        "name": "West 31st Street",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "31st",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90018",
+        "tiger:zip_right": "90018"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3176685,
+            34.0264805
+          ],
+          [
+            -118.3177937,
+            34.0264808
+          ],
+          [
+            -118.3180283,
+            34.0264814
+          ]
+        ]
+      },
+      "id": "way/511693219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/511722289",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "Exposition Boulevard",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "turn:lanes:both_ways": "left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.316601,
+            34.0187215
+          ],
+          [
+            -118.3171111,
+            34.0187985
+          ],
+          [
+            -118.3175959,
+            34.0188655
+          ],
+          [
+            -118.3177361,
+            34.0188848
+          ]
+        ]
+      },
+      "id": "way/511722289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/511725183",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "maxspeed": "35 mph",
+        "name": "Exposition Boulevard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3177361,
+            34.0188848
+          ],
+          [
+            -118.3179257,
+            34.0189194
+          ],
+          [
+            -118.3183844,
+            34.0190029
+          ],
+          [
+            -118.3189731,
+            34.0191207
+          ]
+        ]
+      },
+      "id": "way/511725183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/517591229",
+        "cycleway": "shared_lane",
+        "highway": "residential",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "West 39th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "39th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90008",
+        "tiger:zip_right": "90008"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3361131,
+            34.0146562
+          ],
+          [
+            -118.3362065,
+            34.0146774
+          ],
+          [
+            -118.336241,
+            34.0146861
+          ],
+          [
+            -118.3365579,
+            34.0147637
+          ],
+          [
+            -118.3370586,
+            34.0149341
+          ],
+          [
+            -118.3379697,
+            34.0152542
+          ],
+          [
+            -118.3388735,
+            34.0155682
+          ],
+          [
+            -118.3397793,
+            34.0158958
+          ],
+          [
+            -118.3406022,
+            34.0161825
+          ],
+          [
+            -118.3406878,
+            34.0162115
+          ]
+        ]
+      },
+      "id": "way/517591229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/518116654",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "maxspeed": "35 mph",
+        "name": "Exposition Boulevard"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3236048,
+            34.0202229
+          ],
+          [
+            -118.3242036,
+            34.0203642
+          ],
+          [
+            -118.3246593,
+            34.0204719
+          ],
+          [
+            -118.3247806,
+            34.0205004
+          ]
+        ]
+      },
+      "id": "way/518116654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/518116655",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "Exposition Boulevard",
+        "surface": "asphalt",
+        "turn:lanes:both_ways": "left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3247806,
+            34.0205004
+          ],
+          [
+            -118.3249123,
+            34.0205303
+          ],
+          [
+            -118.3263607,
+            34.0208576
+          ],
+          [
+            -118.327165,
+            34.0210394
+          ]
+        ]
+      },
+      "id": "way/518116655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/524697710",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "Exposition Boulevard",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "Exposition",
+        "tiger:name_type": "Blvd"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3394539,
+            34.0233526
+          ],
+          [
+            -118.3399795,
+            34.0234204
+          ]
+        ]
+      },
+      "id": "way/524697710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607540313",
+        "cycleway": "shared_lane",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "3",
+        "lanes:forward": "1",
+        "maxspeed": "30 mph",
+        "name": "West 39th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "39th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90008",
+        "tiger:zip_right": "90008",
+        "turn:lanes:backward": "left|left;through|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3351238,
+            34.0146052
+          ],
+          [
+            -118.3353246,
+            34.014608
+          ],
+          [
+            -118.335447,
+            34.0146096
+          ],
+          [
+            -118.3358046,
+            34.0146196
+          ],
+          [
+            -118.3359172,
+            34.014633
+          ]
+        ]
+      },
+      "id": "way/607540313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/829710380",
+        "cycleway": "shared_lane",
+        "highway": "residential",
+        "motor_vehicle": "destination",
+        "name": "South Saint Andrews Place",
+        "surface": "asphalt",
+        "tiger:name_base": "St Andrews",
+        "tiger:name_direction_prefix": "S",
+        "tiger:name_type": "Pl"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.312069,
+            34.0299572
+          ],
+          [
+            -118.312062,
+            34.0290957
+          ],
+          [
+            -118.3120604,
+            34.0282545
+          ],
+          [
+            -118.312047,
+            34.0273982
+          ],
+          [
+            -118.3120465,
+            34.0269437
+          ],
+          [
+            -118.312039,
+            34.026485
+          ],
+          [
+            -118.3120358,
+            34.0260248
+          ],
+          [
+            -118.3120279,
+            34.0257636
+          ],
+          [
+            -118.3120213,
+            34.0256461
+          ],
+          [
+            -118.3120177,
+            34.0255558
+          ]
+        ]
+      },
+      "id": "way/829710380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/829710382",
+        "cycleway": "shared_lane",
+        "highway": "residential",
+        "motor_vehicle": "destination",
+        "name": "Cimarron Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "Cimarron",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90018",
+        "tiger:zip_right": "90018"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.315164,
+            34.0299533
+          ],
+          [
+            -118.315163,
+            34.0290897
+          ],
+          [
+            -118.3151653,
+            34.0282416
+          ],
+          [
+            -118.31516,
+            34.0274048
+          ],
+          [
+            -118.31516,
+            34.0269318
+          ],
+          [
+            -118.3151582,
+            34.0264805
+          ],
+          [
+            -118.3151587,
+            34.0260249
+          ],
+          [
+            -118.315158,
+            34.0256504
+          ],
+          [
+            -118.315158,
+            34.0255492
+          ]
+        ]
+      },
+      "id": "way/829710382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/829717232",
+        "cycleway": "shared_lane",
+        "highway": "residential",
+        "lanes": "2",
+        "motor_vehicle": "destination",
+        "name": "West 29th Place",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "29th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "Pl",
+        "tiger:zip_left": "90018",
+        "tiger:zip_right": "90018"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3176714,
+            34.0282267
+          ],
+          [
+            -118.3177879,
+            34.028226
+          ],
+          [
+            -118.3187506,
+            34.0282205
+          ],
+          [
+            -118.3189438,
+            34.0282204
+          ],
+          [
+            -118.3200456,
+            34.0282196
+          ],
+          [
+            -118.3201696,
+            34.0282204
+          ],
+          [
+            -118.3206252,
+            34.0282233
+          ],
+          [
+            -118.3212354,
+            34.028212
+          ]
+        ]
+      },
+      "id": "way/829717232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/829717235",
+        "cycleway": "shared_lane",
+        "highway": "residential",
+        "lanes": "2",
+        "motor_vehicle": "destination",
+        "name": "5th Avenue",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "5th",
+        "tiger:name_type": "Ave",
+        "tiger:zip_left": "90018",
+        "tiger:zip_right": "90018"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3223963,
+            34.02966
+          ],
+          [
+            -118.3223993,
+            34.0291197
+          ],
+          [
+            -118.3224002,
+            34.0290096
+          ],
+          [
+            -118.322409,
+            34.0276391
+          ],
+          [
+            -118.3224045,
+            34.0260605
+          ],
+          [
+            -118.3223972,
+            34.0257017
+          ],
+          [
+            -118.322395,
+            34.0255854
+          ]
+        ]
+      },
+      "id": "way/829717235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/874913550",
+        "bicycle": "designated",
+        "crossing": "traffic_signals",
+        "crossing:signals": "yes",
+        "cycleway": "crossing",
+        "highway": "cycleway",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3135659,
+            34.018445
+          ],
+          [
+            -118.3134867,
+            34.018402
+          ],
+          [
+            -118.3134428,
+            34.018364
+          ],
+          [
+            -118.3134172,
+            34.0183438
+          ],
+          [
+            -118.3133747,
+            34.0183065
+          ]
+        ]
+      },
+      "id": "way/874913550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1053002429",
+        "cycleway": "lane",
+        "highway": "primary",
+        "lanes": "3",
+        "name": "West Martin Luther King Junior Boulevard",
+        "name:etymology:wikidata": "Q8027",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.338529,
+            34.0127353
+          ],
+          [
+            -118.3384337,
+            34.012702
+          ]
+        ]
+      },
+      "id": "way/1053002429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1260737418",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "3",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "Exposition Boulevard",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "Exposition",
+        "tiger:name_type": "Blvd",
+        "turn:lanes:backward": "left||right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3351108,
+            34.0226909
+          ],
+          [
+            -118.335296,
+            34.0227226
+          ],
+          [
+            -118.3354161,
+            34.022743
+          ],
+          [
+            -118.3354529,
+            34.0227493
+          ],
+          [
+            -118.3357625,
+            34.0228022
+          ]
+        ]
+      },
+      "id": "way/1260737418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1260737419",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "maxspeed": "35 mph",
+        "name": "Exposition Boulevard",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "Exposition",
+        "tiger:name_type": "Blvd",
+        "turn:lanes:forward": "left|"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3399795,
+            34.0234204
+          ],
+          [
+            -118.3403915,
+            34.0234735
+          ],
+          [
+            -118.3405162,
+            34.0234896
+          ]
+        ]
+      },
+      "id": "way/1260737419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1347164367",
+        "cycleway": "shared_lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "West 39th Street",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Los Angeles, CA",
+        "tiger:name_base": "39th",
+        "tiger:name_direction_prefix": "W",
+        "tiger:name_type": "St",
+        "tiger:zip_left": "90008",
+        "tiger:zip_right": "90008"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.3359172,
+            34.014633
+          ],
+          [
+            -118.3361131,
+            34.0146562
+          ]
+        ]
+      },
+      "id": "way/1347164367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1409553241",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:both_ways": "1",
+        "lanes:forward": "1",
+        "maxspeed": "35 mph",
+        "name": "Exposition Boulevard",
+        "surface": "asphalt",
+        "turn:lanes:both_ways": "left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.334952,
+            34.0226606
+          ],
+          [
+            -118.3351108,
+            34.0226909
+          ]
+        ]
+      },
+      "id": "way/1409553241"
+    }
+  ]
+}
