@@ -1,0 +1,11 @@
+{
+  "kind": "ref",
+  "body_type": "sdk.Environment",
+  "body": {
+    "name": "local_los_angeles",
+    "attributes": {
+      "frontend_port": "2000",
+      "type": "local"
+    }
+  }
+}
