@@ -2,7 +2,7 @@
   "kind": "ref",
   "body_type": "models.Intent",
   "body": {
-    "release": "github-personal/OsiristheeDev/rc-bike-stress-pairing-jam/-/package.ocu.star/@r6",
+    "release": "github-personal/OsiristheeDev/rc-bike-stress-pairing-jam/-/package.ocu.star/@r7",
     "input": {
       "environment": {
         "ref": "@/environment/local_los_angeles",
