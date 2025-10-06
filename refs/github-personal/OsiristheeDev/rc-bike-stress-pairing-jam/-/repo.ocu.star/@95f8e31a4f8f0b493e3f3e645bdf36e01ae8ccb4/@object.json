@@ -1,0 +1,17 @@
+{
+  "kind": "ref",
+  "body_type": "models.RepoConfig",
+  "links": [
+    "github-personal/OsiristheeDev/rc-bike-stress-pairing-jam/-/repo.ocu.star/@"
+  ],
+  "body": {
+    "Remotes": [
+      {
+        "Name": "origin",
+        "URL": "git@github-personal:OsiristheeDev/rc-bike-stress-pairing-jam",
+        "PushURL": "git@github-personal:OsiristheeDev/rc-bike-stress-pairing-jam"
+      }
+    ],
+    "source": "b2N1cm9vdCgiMC4zLjAiKQoKZGVmIHJlcG9fdXJsKCk6CiAgICBlbnZfdmFycyA9IGVudigpCiAgICBpZiAiR0hfVE9LRU4iIG5vdCBpbiBlbnZfdmFyczoKICAgICAgICByZXR1cm4gaG9zdC5zaGVsbCgiZ2l0IHJlbW90ZSBnZXQtdXJsIG9yaWdpbiIpLnN0ZG91dC5zdHJpcCgpCiAgICAjIEFsd2F5cyB1c2UgaHR0cHMgZm9yIGNoZWNrb3V0IHdpdGggR2l0SHViIGFjdGlvbnMKICAgIHJldHVybiAiaHR0cHM6Ly94LWFjY2Vzcy10b2tlbjp7fUBnaXRodWIuY29tL09zaXJpc3RoZWVEZXYvcmMtYmlrZS1zdHJlc3MtcGFpcmluZy1qYW0uZ2l0Ii5mb3JtYXQoZW52X3ZhcnNbIkdIX1RPS0VOIl0pCgpyZW1vdGUgPSByZXBvX3VybCgpCgpyZW1vdGVzKFtyZW1vdGVdKQoKc3RvcmUuc2V0KAogICAgc3RvcmUuZ2l0KHJlbW90ZSwgYnJhbmNoPSJzdGF0ZSIpLAogICAgaW50ZW50PXN0b3JlLmdpdChyZW1vdGUsIGJyYW5jaD0iaW50ZW50IikKKQ=="
+  }
+}
