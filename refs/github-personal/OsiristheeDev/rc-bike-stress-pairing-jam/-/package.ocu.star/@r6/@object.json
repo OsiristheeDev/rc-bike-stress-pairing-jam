@@ -1,0 +1,48 @@
+{
+  "kind": "ref",
+  "body_type": "release.ReleaseInfo",
+  "body": {
+    "commit": "95f8e31a4f8f0b493e3f3e645bdf36e01ae8ccb4",
+    "package": {
+      "functions": {
+        "down/package.ocu.star:6:1": {
+          "function": {
+            "name": "down",
+            "pos": "package.ocu.star:6:1"
+          }
+        },
+        "up/package.ocu.star:3:1": {
+          "function": {
+            "name": "up",
+            "pos": "package.ocu.star:3:1"
+          }
+        }
+      },
+      "phases": [
+        {
+          "name": "local",
+          "tasks": [
+            {
+              "deploy": {
+                "environment": "local_los_angeles",
+                "up": {
+                  "name": "up",
+                  "pos": "package.ocu.star:3:1"
+                },
+                "down": {
+                  "name": "down",
+                  "pos": "package.ocu.star:6:1"
+                },
+                "inputs": {
+                  "environment": {
+                    "ref": "@/environment/local_los_angeles"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
