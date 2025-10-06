@@ -1,6 +1,6 @@
 {
   "kind": "ref",
-  "body_type": "models.Run",
+  "body_type": "*models.Run",
   "body": {
     "type": "up",
     "release": "github-personal/OsiristheeDev/rc-bike-stress-pairing-jam/-/package.ocu.star/@r4",
@@ -12,7 +12,14 @@
         },
         "inputs": {
           "environment": {
-            "ref": "@/environment/local_los_angeles"
+            "ref": "@/environment/local_los_angeles",
+            "value": {
+              "attributes": {
+                "frontend_port": "2000",
+                "type": "local"
+              },
+              "name": "local_los_angeles"
+            }
           }
         }
       }
